@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app_server",
+    "\\app_server\\models",
+    "\\app_server\\views",
+    "\\bin",
+    "\\public",
+    "\\public\\bootstrap",
+    "\\public\\images",
+    "\\public\\javascripts"
+  ],
+  "SelectedNode": "\\app_server\\views\\layout.pug",
+  "PreviewInSolutionExplorer": false
+}
