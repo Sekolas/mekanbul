@@ -1,5 +1,11 @@
 var express = require('express');
 var router = express.Router();
-var ctrlMain = require('../controllers/main');
-router.get('/',ctrlMain.index);
+var ctrlMekanlar = require('../controllers/mekanlar');
+var ctrlDigerleri = require('../controllers/digerleri');
+
+router.get('/',ctrlMekanlar.anaSayfa);
+router.get('/mekan',ctrlMekanlar.mekanBilgisi);
+router.get('/mekan/yorum/yeni',ctrlMekanlar.YorumEkle);
+router.get('/hakkinda',ctrlDigerleri.Hakkinda);
+
 module.exports = router;
