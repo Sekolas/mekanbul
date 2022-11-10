@@ -1,7 +1,7 @@
-const Hakkinda = function (req, res, next) {
-    res.render('hakkinda', { title: 'Hakkinda' });
+const hakkinda = function (req, res, next) {
+  res.render("hakkinda", { title: "Hakkında" });
 };
 
-module.exports={
-  Hakkinda
-}
+module.exports = {
+  hakkinda,
+};
