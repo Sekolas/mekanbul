@@ -1,2 +1,0 @@
-# 
-(./resimler/mekan getir.png)
