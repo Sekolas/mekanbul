@@ -1,7 +1,7 @@
-### 1. Collection : MekanBul API Testleri
+#1.MekanBul API Testleri
 ![1](/resimler/API_Test.png)
 
-### 2. API Testleri
+###2.MekanBul Collection Testleri
 ![2](/resimler/Collections_Test.png)
 
 
