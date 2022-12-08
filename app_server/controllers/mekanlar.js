@@ -4,8 +4,8 @@ var router = express.Router();
 const axios=require("axios");
 const { rawListeners } = require('../../app');
 var apiSecenekleri={
-  sunucu:"http://localhost:3000",
-  //sunucu:"https://mekanbul.sekolas.repl.co",
+  //sunucu:"http://localhost:3000",
+  sunucu:"https://mekanbul.sekolas.repl.co",
   apiYolu:"/api/mekanlar/"
 }
 
