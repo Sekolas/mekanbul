@@ -1,22 +1,17 @@
-<<<<<<< HEAD
+[Repliit Adresi](https://mekanbul.sekolas.repl.co/?enlem=37&boylam=35)
+
+![Replit Adresi](./resimler/replit_mekan_getir.png)
+
+
+
 ### 1. Collection : MekanBul API Testleri
 ![1](/resimler/API_Test.png)
 
-=======
-# MekanBul REST API TESTLERİ
-
-### 1. Collection : MekanBul API Testleri
-![1](/resimler/API_Test.png)
->>>>>>> 2d16a4fe68ccbec49498046865bf495e2884412e
 ### 2. API Testleri
 ![2](/resimler/Collections_Test.png)
 
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 2d16a4fe68ccbec49498046865bf495e2884412e
 # Mekanbul Rest API dersleri
 1.[Girilen Konum Civarındaki Mekanları Listele](https://mekanbul-3-2.sekolas.repl.co/api/mekanlar?enlem=37.83226584629666&boylam=30.524732239878013)
 ![Girilen Konum Civarındaki Mekanları Listele](./resimler/mekanlistele.png)
