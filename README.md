@@ -1,4 +1,4 @@
-[Repliit Adresi](https://mekanbul.sekolas.repl.co/?enlem=37&boylam=35)
+[Repliit Adresi](https://mekanbul-1.sekolas.repl.co/?enlem=37&boylam=35)
 
 ![Replit Adresi](./resimler/replit_mekan_getir.png)
 
